@@ -4,4 +4,6 @@ There is an unresolved bug in PrestaShop (at least up to version 8.1.2. [https:/
 
 This module provides a URL that can be manually accessed or scheduled via a periodic cronjob to remove discount codes from abandoned carts that have expired or been deactivated.
 
+![Admin Config Preview](preview/admin-config.png)
+
 Verified with PrestaShop versions 1.7.8.7 and 8.1.2
